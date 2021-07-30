@@ -1,1 +1,1 @@
-# Artificial-Intelligence-Algorithms-Training
+# Artificial Intelligence Algorithms Training

@@ -9,11 +9,50 @@ Artificial Intelligence Algorithms Training for computer science students.
 
 ## :dart: `Training Summary`
 
-| `???` | :clock4:        Hours       | `??`  | :calendar:         Weeks    | `?`   | :open_file_folder:  Courses  | `?`   | :clipboard:   Modules   |
-|:-----:|:---------------------------:|:-----:|:---------------------------:|:-----:|:----------------------------:|:-----:|:-----------------------:|
-| `??`  | :bookmark_tabs: Lectures    | `???` | :card_index:       Sections | `???` | :pencil:            Quizzes  | `???` | :paperclip:   Practices |
-| `??`  | :bulb:          Assignments | `???` | :label:            Tasks    | `??`  | :video_game:        Projects | `???` | :bookmark:    Tasks     |
-| `??`  | :books:         Textbooks   | `?`   | :desktop_computer: Udacity  | `??`  | :computer:          Coursera | `??`  | :film_strip:  YouTube   |
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="25px">300</td>
+            <td align=center width="175px">🕓 Hours</td>
+            <td align=center width="25px">30</td>
+            <td align=center width="175px">📆 Weeks</td>
+            <td align=center width="25px">3</td>
+            <td align=center width="175px">📂 Courses</td>
+            <td align=center width="25px">6</td>
+            <td align=center width="175px">📋 Modules</td>
+        </tr>
+        <tr>
+            <td align=center width="25px">35</td>
+            <td align=center width="175px">📑 Lectures</td>
+            <td align=center width="25px">210</td>
+            <td align=center width="175px">📇 Sections</td>
+            <td align=center width="25px">70</td>
+            <td align=center width="175px">📝 Quizzes</td>
+            <td align=center width="25px">525</td>
+            <td align=center width="175px">📎 Practices</td>
+        </tr>
+        <tr>
+            <td align=center width="25px">30</td>
+            <td align=center width="175px">💡 Assignments</td>
+            <td align=center width="25px">300</td>
+            <td align=center width="175px">🏷️ Tasks</td>
+            <td align=center width="25px">40</td>
+            <td align=center width="175px">🎮 Projects</td>
+            <td align=center width="25px">400</td>
+            <td align=center width="175px">🔖 Tasks</td>
+        </tr>
+        <tr>
+            <td align=center width="25px">15</td>
+            <td align=center width="175px">📚 Textbooks</td>
+            <td align=center width="25px">10</td>
+            <td align=center width="175px">🖥️ Udacity</td>
+            <td align=center width="25px">15</td>
+            <td align=center width="175px">💻 Coursera</td>
+            <td align=center width="25px">45</td>
+            <td align=center width="175px">🎞️ YouTube</td>
+        </tr>
+    </tbody>
+</table>
 
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 

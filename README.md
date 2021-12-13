@@ -2,7 +2,7 @@
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/artificial-intelligence.jpg"></img>
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/soft-computing.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/genetic-algorithms.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/computational-cognitive-science.jpg"></img>
 <br><br><br><br><br>
 
 Artificial Intelligence Algorithms Training for computer science students.
@@ -40,16 +40,6 @@ Artificial Intelligence Algorithms Training for computer science students.
             <td align=center width="175px">🎮 Projects</td>
             <td align=center width="25px">400</td>
             <td align=center width="175px">🔖 Tasks</td>
-        </tr>
-        <tr>
-            <td align=center width="25px">15</td>
-            <td align=center width="175px">📚 Textbooks</td>
-            <td align=center width="25px">10</td>
-            <td align=center width="175px">🖥️ Udacity</td>
-            <td align=center width="25px">15</td>
-            <td align=center width="175px">💻 Coursera</td>
-            <td align=center width="25px">45</td>
-            <td align=center width="175px">🎞️ YouTube</td>
         </tr>
     </tbody>
 </table>

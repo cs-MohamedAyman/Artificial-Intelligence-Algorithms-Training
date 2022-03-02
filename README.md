@@ -110,7 +110,7 @@ Artificial Intelligence Algorithms Training for computer science students.
 <br>
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Artificial-Intelligence-Specializations/blob/master/Computer-Science-Specializations/README.md)
+## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md)
 
 <table>
     <tbody>
